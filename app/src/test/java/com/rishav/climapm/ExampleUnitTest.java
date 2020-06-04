@@ -1,4 +1,4 @@
-package com.londonappbrewery.climapm;
+package com.rishav.climapm;
 
 import org.junit.Test;
 

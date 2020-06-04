@@ -1,4 +1,4 @@
-package com.londonappbrewery.climapm;
+package com.rishav.climapm;
 
 import android.os.Bundle;
 import android.support.v7.app.AppCompatActivity;

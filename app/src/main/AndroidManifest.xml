@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest
-    package="com.londonappbrewery.climapm"
+    package="com.rishav.climapm"
     xmlns:android="http://schemas.android.com/apk/res/android">
 
 
@@ -13,7 +13,7 @@
         android:theme="@style/AppTheme">
 
         <activity
-            android:name=".WeatherController"
+            android:name="com.rishav.climapm.WeatherController"
             android:screenOrientation="portrait">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN"/>
